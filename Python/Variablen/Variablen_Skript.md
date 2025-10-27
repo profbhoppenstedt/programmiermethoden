@@ -72,7 +72,7 @@ Das ist bequem, erfordert aber auch **Sorgfalt**, um unerwartete Fehler zu verme
 
 ---
 
-## ➗ Rechnen mit Variablen
+## Rechnen mit Variablen
 
 Variablen können auch in Berechnungen verwendet werden. Python unterstützt die Grundrechenarten:
 
