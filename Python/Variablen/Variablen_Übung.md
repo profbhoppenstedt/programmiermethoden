@@ -1,4 +1,4 @@
-# Python-Übungen: Variablen (Teil 1)
+# Python-Übungen: Variablen
 
 Diese Übungen helfen dir, den Umgang mit Variablen in Python zu üben.
 
