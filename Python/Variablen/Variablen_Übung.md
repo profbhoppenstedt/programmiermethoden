@@ -5,9 +5,10 @@ Diese Übungen helfen dir, den Umgang mit Variablen in Python zu üben.
 ---
 
 ## 1. Hallo Variable  
+
 Erstelle eine Variable `name` und speichere deinen Namen darin.  
 Gib sie mit `print()` aus.
-a
+
 ---
 
 ## 2. Alter speichern  
